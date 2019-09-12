@@ -1,4 +1,4 @@
-# UpgradChalange
+# Upgrad Challenge
 
 
 Hackathon Details
